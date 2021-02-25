@@ -13,9 +13,9 @@
 |![Simple linear gradient](/assets/bg_overlapping_layers.png)|[source](./app/src/main/res/drawable/bg_overlapping_layers.xml?_blank)|
 |![Simple linear gradient](/assets/bg_overlapping_layers_at_the_same_angle.png)|[source](./app/src/main/res/drawable/bg_overlapping_layers_at_the_same_angle.xml?_blank)|
 |![Simple linear gradient](/assets/bg_radial_gradients.png)|[source](./app/src/main/res/drawable/bg_radial_gradients.xml?_blank)|
-|![Simple linear gradient](/assets/bg_floating_blobs.png)|[source](./app/src/main/res/drawable/bg_floating_blobs.xml?_blank))|
-|![Simple linear gradient](/assets/bg_sweep_gradient.png)|[source](./app/src/main/res/drawable/bg_sweep_gradient.xml?_blank)))|
-|![Simple linear gradient](/assets/bg_sweep_offsets.png)|[source](./app/src/main/res/drawable/bg_sweep_offsets.xml?_blank))|
+|![Simple linear gradient](/assets/bg_floating_blobs.png)|[source](./app/src/main/res/drawable/bg_floating_blobs.xml?_blank)|
+|![Simple linear gradient](/assets/bg_sweep_gradient.png)|[source](./app/src/main/res/drawable/bg_sweep_gradient.xml?_blank)|
+|![Simple linear gradient](/assets/bg_sweep_offsets.png)|[source](./app/src/main/res/drawable/bg_sweep_offsets.xml?_blank)|
 |![Simple linear gradient](/assets/bg_sweep_rotations.png)|[source](./app/src/main/res/drawable/bg_sweep_rotations.xml?_blank)|
 |![Simple linear gradient](/assets/bg_sweep_split.png)|[source](./app/src/main/res/drawable/bg_simple_linear_gradient.xml?_blank)|
 
